@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Twitter</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter_clickUser">Click to see all users</string>
+    <string name="filter_favUser">Click to see only favourited users</string>
+    <string name="filter_error">Filter - ERROR</string>
+
+    <string name="login_button">Log In</string>
+    <string name="createaccount_button">Create new account</string>
+    <string name="pickdate_button">Pick Date</string>
+
+    <string name="enterusername_hint">Enter username here</string>
+    <string name="enterpassword_hint">Enter password here</string>
+    <string name="enteremail_hint">Enter email here</string>
+    <string name="enterfullname_hint">Enter fullname here</string>
+    <string name="enterhometown_hint">Enter hometown here</string>
+    <string name="enterbio_hint">Enter biography here</string>
+
+    <string name="username_text">Username: </string>
+    <string name="password_text">Password: </string>
+    <string name="email_text">Email: </string>
+    <string name="fullname_text">Fullname: </string>
+    <string name="hometown_text">Hometown: </string>
+    <string name="bio_text">Biography: </string>
+    <string name="bday_text">Birthday: </string>
+    <string name="profilepic_text">Profile Picture:</string>
+
+    <string name="Caledar_title">Calendar</string>
+    <string name="dialog_pos_button">OK</string>
+    <string name="takephoto_button">Take photo!</string>
+    <string name="submit_button">Submit</string>
+    <string name="clearall_button">Clear All</string>
+    <string name="goback_button">Go Back</string>
+    <string name="enterstatus_hint">Enter Status here</string>
+    <string name="logout_menubar">Log Out</string>
+    <string name="listofallusers_menubar">List of all users</string>
+    <string name="newsfeed_menubar">News Feed</string>
+    <string name="warning_noemailorpassword">WARNING: Make sure you entered an email and a password.</string>
+    <string name="warning_emailused">WARNING: Email already used. Please use another email.</string>
+    <string name="bio_default_text">"This is me! I am "</string>
+    <string name="fullname_def">(no name)</string>
+    <string name="switchtosamefragment_warning">WARNING: switching to same fragment</string>
+    <string name="insertvalidemail_warning">Please insert a valid email</string>
+    <string name="password_warning">Please insert a password with at least one UPPER and one LOWER case alphabet</string>
+
+</resources>

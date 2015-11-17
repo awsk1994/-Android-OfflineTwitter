@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/user_view">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:id="@+id/alluserlist_iv_profilepic"
+            />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_width="0dp"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:id="@+id/alluserlist_tv_name"
+            android:text="--email here--"
+            />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_width="0dp"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:id="@+id/alluserlist_tv_fullname"
+            android:text="--fullname here--"
+            />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/alluserlist_iv_fav"
+            android:src="@mipmap/no_fav1"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee"
+        android:src="@mipmap/pagebreak1"/>
+
+
+</LinearLayout>
