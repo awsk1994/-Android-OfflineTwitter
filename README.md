@@ -1,10 +1,7 @@
 # Offline_Twitter_Android_Studio
-Name: Alex Wong (2793-2681)
-Class: 2016 (csc296)
-Lab Session: TR 9:40 - 10:55am
-Project #: 2
+Name: Alex Wong
 
-**Brief Description: **
+**Brief Description:**
 In this assignment, we have to create an off-line twitter. User should be able to create their account, and then log in to view feeds, post feeds as well as viewing a list of users which they can favorite (to follow) or unfavourite. User should also be able to log out and then log back in with either same or different account. Additionally, the app should integrate camera capabilities for user to take photo for their profile picture and/or their feed posts.
 
 I affirm that I did not give or receive any unauthorized help on this project, and that all work will is my own.
