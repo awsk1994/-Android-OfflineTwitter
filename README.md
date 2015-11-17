@@ -2,7 +2,7 @@
 Name: Alex Wong
 
 **Brief Description:**
-In this assignment, we have to create an off-line twitter. User should be able to create their account, and then log in to view feeds, post feeds as well as viewing a list of users which they can favorite (to follow) or unfavourite. User should also be able to log out and then log back in with either same or different account. Additionally, the app should integrate camera capabilities for user to take photo for their profile picture and/or their feed posts.
+In this assignment, we have to create an off-line twitter. User should be able to create their account, and then log in to view feeds, post feeds as well as viewing a list of users which they can favorite (to follow) or unfavourite. User should also be able to log out and then log back in with either same or different account. Additionally, the app should integrate camera capabilities for user to take photo for their profile picture and/or their feed posts. The database of this application will be SQLiteDatabase.
 
 I affirm that I did not give or receive any unauthorized help on this project, and that all work will is my own.
 
@@ -45,7 +45,7 @@ Database.java contains many SQLite query functions, and CursorWrapper. This is e
 **OpenHelper:**
 OpenHelper is simply there to create tables if it does not exist, and update table if the table numbers don’t match up.
 
-**Scheme: **
+**Scheme:**
 Simply set the columns and assign a name to the column. 
 
 **MVC:**
